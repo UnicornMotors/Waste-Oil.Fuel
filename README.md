@@ -13,3 +13,11 @@ quote:
 ---
 
 >Hot oil is a very good thing when it comes to cleaning and 160°F up to about 220°F degrees is an ideal range. The hotter the better! Oil thins quickly with heat and it also helps separate the water. You may look at that dark black oil and think it's dry but you have been fooled. There is still a significant amount of water in it. This is due to the detergents in the oil that hold the water in suspension. Because water is heavier than oil, it will come out in the centrifuge. The US Filtermaxx centrifuge creates a slight vacuum in the bowl, this and the fine spray created inside the centrifuge causes water to flash off as steam. If this steam was allowed to stay in the centrifuge, a large percentage would condense back into the oil as water. If the vapors are forced out of the centrifuge, then there is little chance for them to re-contaminate the oil. US Filtermaxx centrifuges are force ventilated to remove this water and other vapors coming from the hot oil.
+---
+
+>Blending Agent / Solvent Options
+Now you are ready to blend the oil to reduce the viscosity. There are many things or “solvents” that may be used, regular gasoline, kerosene, jet fuel and diesel. There are reasons you don't want to use other solvents like acetone or toluene except as maybe an occasional fuel system cleaner.
+>
+>Diesel is a common solvent and every 10 percent addition reduces the oil viscosity by one third.
+>
+>Gasoline is a powerful solvent and every 10 percent addition cuts the viscosity by half. Heavy oil is slower burning. Gasoline also increases the burn rate. These two properties make it my solvent of choice.
