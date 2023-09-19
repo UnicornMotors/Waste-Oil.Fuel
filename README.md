@@ -4,6 +4,7 @@ inspire: [Never Pay for Fuel Again!](https://youtu.be/YeLNRCXcpLs)
 # Guide:
 ## Top.Favorite!
 https://usfiltermaxx.com/en/content/9-make-black-diesel [|Ark:](https://web.archive.org/web/20220314012746/https://usfiltermaxx.com/en/content/9-make-black-diesel)
+- https://usfiltermaxx.com/en/content/31-high-speed-cylinder-centrifuge-videos [|Ark:](https://web.archive.org/web/20230919153302/https://usfiltermaxx.com/en/content/31-high-speed-cylinder-centrifuge-videos)
 
 quote:
 >Why it Works
@@ -21,3 +22,10 @@ Now you are ready to blend the oil to reduce the viscosity. There are many thing
 >Diesel is a common solvent and every 10 percent addition reduces the oil viscosity by one third.
 >
 >Gasoline is a powerful solvent and every 10 percent addition cuts the viscosity by half. Heavy oil is slower burning. Gasoline also increases the burn rate. These two properties make it my solvent of choice.
+---
+
+>Mixing Oil and Gasoline
+>Mixing is a very important part of a successful process and critical for proper operation. Oil and gas don't want to mix and will sit in layers in a tank. It requires vigorous mixing to get the oil blended with the solvent. Poorly mixed oil will go straight to the bottom of a tank and gas or diesel will float on top. If you pour cleaned oil directly into your fuel tank thinking it would blend, WRONG, it is guaranteed your engine will start smoking and running rough within minutes. Also, you can't just put a stick in the tank and swish it around for 5 minutes and expect it to work. Proper mixing is essential if your oil fuel is going to run properly. Small batches up to 100 gallons or so may be vigorously blended with a motorized paddle mixer. Twenty 20 minutes per one hundred gallons should be a minimum. Another option is circulating with a gear pump for a few hours. Once your 80/20 blend is well mixed, it will stay that way.
+>
+>Settling
+>Air bubbles will be drawn into the oil with all of this vigorous mixing. After blending, the tank should sit overnight to allow the air bubbles to escape. Another good practice is to fill the equipment tanks or engine fuel tanks the evening before use. Any air whipped into the oil during filling will escape overnight.
