@@ -1,1 +1,3 @@
 - [S4 E25 We experiment with our 196 cc 3 hp diesel engine Motor oil fuel, propane, water vapor](https://youtu.be/YsERU9hW0eA)
+- [S4 E27 We test alternative diesel fuels Vegetable, waste, ATF..Possible engine damage](https://youtu.be/VF-bYBy3Sd4)
+- [S4 E3. How good is vegetable oil as a source of fuel for a diesel engine?... We find out!. plus more](https://youtu.be/FgsCJ7DpO3s)
